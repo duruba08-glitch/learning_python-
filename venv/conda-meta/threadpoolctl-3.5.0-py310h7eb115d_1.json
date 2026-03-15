@@ -1,0 +1,105 @@
+{
+  "name": "threadpoolctl",
+  "version": "3.5.0",
+  "build": "py310h7eb115d_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "subdir": "osx-arm64",
+  "fn": "threadpoolctl-3.5.0-py310h7eb115d_1.conda",
+  "md5": "289b130a20030d7cd49a7ec5fc4c7a14",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/threadpoolctl-3.5.0-py310h7eb115d_1.conda",
+  "sha256": "e1419963425602d06ad4189078ad1d86ff0937cbfe39bf53caf1383e552a6e46",
+  "depends": [
+    "python >=3.10,<3.11.0a0"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "timestamp": 1764361601000,
+  "size": 42803,
+  "requested_spec": "None",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/threadpoolctl-3.5.0-py310h7eb115d_1.conda",
+  "extracted_package_dir": "/opt/anaconda3/pkgs/threadpoolctl-3.5.0-py310h7eb115d_1",
+  "files": [
+    "lib/python3.10/site-packages/__pycache__/threadpoolctl.cpython-310.pyc",
+    "lib/python3.10/site-packages/threadpoolctl-3.5.0.dist-info/INSTALLER",
+    "lib/python3.10/site-packages/threadpoolctl-3.5.0.dist-info/METADATA",
+    "lib/python3.10/site-packages/threadpoolctl-3.5.0.dist-info/RECORD",
+    "lib/python3.10/site-packages/threadpoolctl-3.5.0.dist-info/REQUESTED",
+    "lib/python3.10/site-packages/threadpoolctl-3.5.0.dist-info/WHEEL",
+    "lib/python3.10/site-packages/threadpoolctl-3.5.0.dist-info/direct_url.json",
+    "lib/python3.10/site-packages/threadpoolctl-3.5.0.dist-info/licenses/LICENSE",
+    "lib/python3.10/site-packages/threadpoolctl.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "lib/python3.10/site-packages/__pycache__/threadpoolctl.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "98c0748077370561704b1f69edf239c340e6e52d1d63cd72a5d48351ece03d6f",
+        "size_in_bytes": 43745,
+        "sha256_in_prefix": "98c0748077370561704b1f69edf239c340e6e52d1d63cd72a5d48351ece03d6f"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/threadpoolctl-3.5.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/threadpoolctl-3.5.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "23fc69859663a5116fea850cef8647289f00a6c554c34cebfec0ace534695a79",
+        "size_in_bytes": 13872,
+        "sha256_in_prefix": "23fc69859663a5116fea850cef8647289f00a6c554c34cebfec0ace534695a79"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/threadpoolctl-3.5.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "39a4b3078de0d64d5622509b89398a9ffcaad041fcf38eecb3724bcb0dd55c1a",
+        "size_in_bytes": 741,
+        "sha256_in_prefix": "39a4b3078de0d64d5622509b89398a9ffcaad041fcf38eecb3724bcb0dd55c1a"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/threadpoolctl-3.5.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/threadpoolctl-3.5.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1b68144734c4b66791f27add5d425f3620775585718a03d0f9b110ba3a4d88db",
+        "size_in_bytes": 82,
+        "sha256_in_prefix": "1b68144734c4b66791f27add5d425f3620775585718a03d0f9b110ba3a4d88db"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/threadpoolctl-3.5.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "1c2bcc498c130db218f80cdaf86d533529ad1cec1c0a9cf6da3a34c6f0399c4c",
+        "size_in_bytes": 92,
+        "sha256_in_prefix": "1c2bcc498c130db218f80cdaf86d533529ad1cec1c0a9cf6da3a34c6f0399c4c"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/threadpoolctl-3.5.0.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "81ac619075248b06e53660b652d10e485f4675f5d0ae0f97ea22370da1f7e23b",
+        "size_in_bytes": 1507,
+        "sha256_in_prefix": "81ac619075248b06e53660b652d10e485f4675f5d0ae0f97ea22370da1f7e23b"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/threadpoolctl.py",
+        "path_type": "hardlink",
+        "sha256": "f07b9a0efe634d128c829b57ae5a8ccf14ac4b236203bbbd6dc6fce2c99b55a3",
+        "size_in_bytes": 50023,
+        "sha256_in_prefix": "f07b9a0efe634d128c829b57ae5a8ccf14ac4b236203bbbd6dc6fce2c99b55a3"
+      }
+    ]
+  },
+  "link": {
+    "source": "/opt/anaconda3/pkgs/threadpoolctl-3.5.0-py310h7eb115d_1",
+    "type": 1
+  }
+}

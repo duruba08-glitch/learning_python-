@@ -1,0 +1,36 @@
+{
+  "name": "numpy",
+  "version": "2.2.5",
+  "build": "py310h40d09ce_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "subdir": "osx-arm64",
+  "fn": "numpy-2.2.5-py310h40d09ce_2.conda",
+  "md5": "f276b6089de613657c10c9f190b89305",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/numpy-2.2.5-py310h40d09ce_2.conda",
+  "sha256": "df69944283aeee563b68c1c98c2c945cf33e12ad2ad763aae38358db8590c890",
+  "depends": [
+    "__osx >=12.1",
+    "blas * openblas",
+    "libcxx >=20",
+    "libopenblas >=0.3.30,<1.0a0",
+    "numpy-base 2.2.5 py310h855c928_2",
+    "python >=3.10,<3.11.0a0"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "timestamp": 1761579431000,
+  "size": 11011,
+  "requested_spec": "None",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/numpy-2.2.5-py310h40d09ce_2.conda",
+  "extracted_package_dir": "/opt/anaconda3/pkgs/numpy-2.2.5-py310h40d09ce_2",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "/opt/anaconda3/pkgs/numpy-2.2.5-py310h40d09ce_2",
+    "type": 1
+  }
+}
